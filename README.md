@@ -16,7 +16,7 @@
 
 - Maior que 20: Grande
 
-**Para realizar á lógica, considere como entrada uma lista/mapa/array da qual cada posição representa a quantidade vendida em um dia do mês. Para solução desse problema, considere: **
+** Para realizar á lógica, considere como entrada uma lista/mapa/array da qual cada posição representa a quantidade vendida em um dia do mês. Para solução desse problema, considere: **
 
 - Criação de uma classe.
 - Criação de no mínimo dois métodos nesta classe.
